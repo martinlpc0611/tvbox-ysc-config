@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 22:29:01",
+  "updated_at": "2026-10-24 10:21:02",
   "repo": "martinlpc0611/tvbox-ysc-config",
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "潇洒",
       "ok": false,
       "used_url": null,
-      "error": "502 Server Error: Bad Gateway for url: https://9877.kstore.space/AnotherD/api.json"
+      "error": "404 Client Error:  for url: https://9877.kstore.space/AnotherD/api.json"
     }
   ]
 }
